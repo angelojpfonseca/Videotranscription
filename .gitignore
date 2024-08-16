@@ -38,12 +38,12 @@ ENV/
 Thumbs.db
 
 # Project-specific
-downloaded_videos/
-audio-chunks/
+*.mp3
 *.mp4
 *.webm
 *.wav
 *_transcription.txt
+*.txt
 
 # Logs and databases
 *.log
